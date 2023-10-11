@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="clicksText" type="id" />
+    <item name="minus_button" type="id" />
+    <item name="plus_button" type="id" />
+</resources>

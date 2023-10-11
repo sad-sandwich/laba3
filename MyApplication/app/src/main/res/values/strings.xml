@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_to_android">Welcome to Android</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="what_is_lorem_ipsum">What is Lorem Ipsum?</string>
+    <string name="lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry_like_aldus_pagemaker_including_versions_of_lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry...like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="why_do_we_use_it">Why do we use it?</string>
+    <string name="where_can_i_get_some">Where can I get some?</string>
+    <string name="there_are_many_variations_of_passages_of_lorem_ipsum_available_or_non_characteristic_words_etc">There are many variations of passages of Lorem Ipsum available ... or non-characteristic words etc.</string>
+    <string name="_0_clicks">0 Clicks</string>
+    <string name="click">Click</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="nn">Ввод</string>
+    <string name="bb">Введите имя</string>
+    <string name="click1">Click</string>
+</resources>
